@@ -1,0 +1,61 @@
+
+h1 .header-font {
+  font-family: 'Tahoma';
+  color: rgb(0, 99, 0);
+  text-shadow: rgb(213, 225, 214);
+
+}
+
+p {
+  font-family: 'Tahoma';
+  font-weight: 'bold';
+  color: rgb(0, 99, 0);
+}
+
+footer {
+  background-color: rgb(0, 99, 0);
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: #ffffff;
+  color: rgb(255, 255, 255);
+  min-height: 30px;
+  font-family: verdana, tahoma;
+  font-size: 10px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 5px;
+}
+
+* {
+  font-family: 'Tahoma';
+  color: rgb(0, 99, 0);
+}
+
+.jumbo-bg {
+  background-color: rgb(213, 225, 214);
+  background-size: cover;
+}
+
+.demo-text {
+  font-size: 12px;
+  align-items:stretch ;
+  color: rgb(0, 99, 0);
+}
+
+.panel .card .card-title {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(0, 99, 0);
+}
+
+#selDataset {
+  font-size: 14px;
+  color:rgb(0, 99, 0)
+}
+
+.well .belly-bg {
+  background-color: rgb(213, 225, 214)
+}

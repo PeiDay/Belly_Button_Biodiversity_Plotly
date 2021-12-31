@@ -7,30 +7,31 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bellybutton Biodiversity</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="static/css/style.css" rel="stylesheet">
 </head>
 
 <body>
 
-  <div class="container">
+  <div class="container banner-bg">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>Belly Button Biodiversity Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
+      <div class="col-md-12 jumbotron jumbo-bg text-center";>
+        <h1 class="header-font">Belly Button Biodiversity Dashboard </h1>
+        <p> Use the interactive charts below to explore the dataset </p>
       </div>
     </div>
+
     <div class="row">
       <div class="col-md-2">
-        <div class="well">
+        <div class="well mb-4" style="background-color: rgb(213, 225, 214);">
           <h5>Test Subject ID No.:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Demographic Info</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
+        <div class="well" style="background-color: rgba(213, 225, 214);">
+          <div class="card belly-bg text-center header-font"><h5>Demographic Info</h5></div>
+          <div id="sample-metadata" class="card-body p-0 demo-text"></div>
         </div>
       </div>
+
       <div class="col-md-5">
         <div id="bar"></div>
       </div>
@@ -49,7 +50,8 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="./static/js/app.js"></script>
   <script src="./static/js/bonus.js"></script>
-  
+
+  <footer> Copyright © PeiDay 2021</footer>
 </body>
 
 </html>
