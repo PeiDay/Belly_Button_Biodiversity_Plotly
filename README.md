@@ -1,5 +1,5 @@
 # Plotly-Challenge 
-## Belly Button Biodiversity
+### Belly Button Biodiversity
 
 ![Virus.jpg](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/2029078.jpg)
 
