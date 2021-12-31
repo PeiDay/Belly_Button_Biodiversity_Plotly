@@ -1,7 +1,7 @@
 # Plotly-Challenge 
 ## Belly Button Biodiversity
 
-![Virus.jpg](https://github.com/PeiDay/Plotly-Challenge/blob/main/images/Virus.jpeg)
+![Virus.jpg](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/2029078.jpg)
 
 ## Background
 We are building an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
@@ -22,10 +22,10 @@ The ask was to retrieve the demographics by the test ID, and make bar chart and 
 * Get required data for plotting, including sample_values, otu_ids and otu_labels which were used to create a trace and plot the bar chart;
 
 * Display the charts as below: 
-    ![dashboard](https://github.com/PeiDay/Plotly-Challenge/blob/main/images/BBB_dashboard.png)
-    ![bar](https://github.com/PeiDay/Plotly-Challenge/blob/main/images/bar.png)
-    ![bubble](https://github.com/PeiDay/Plotly-Challenge/blob/main/images/bubble.png)
-    ![gauge_needle](https://github.com/PeiDay/Plotly-Challenge/blob/main/images/gauge_needle.png)
+    ![dashboard](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/BBB_dashboard.png)
+    ![bar](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/bar.png)
+    ![bubble](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/bubble.png)
+    ![gauge_needle](https://github.com/PeiDay/Plotly-Challenge/blob/main/static/images/gauge_needle.png)
 
 ## Sources
 * Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
